@@ -14,9 +14,6 @@ git reflog
 git rebase --continue
 git rebase --abort
 git rebase --skip
-<<<<<<< HEAD
 git log --online
 git log
-=======
 git
->>>>>>> 3840039 ( git added)
