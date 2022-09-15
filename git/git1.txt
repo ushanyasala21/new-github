@@ -8,3 +8,6 @@ git pull
 git push
 git reabase
 git merge
+git push -u origin feature
+git log
+git reflog
