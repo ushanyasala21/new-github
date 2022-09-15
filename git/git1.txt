@@ -2,3 +2,7 @@ git --version
 git init
 git clone
 git status
+git add
+git commit
+git pull
+git push
