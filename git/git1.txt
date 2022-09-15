@@ -12,3 +12,4 @@ git push -u origin feature
 git log
 git reflog
 git rebase --continue
+git rebase --abort
