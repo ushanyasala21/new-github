@@ -13,3 +13,4 @@ git log
 git reflog
 git rebase --continue
 git rebase --abort
+git rebase --skip
